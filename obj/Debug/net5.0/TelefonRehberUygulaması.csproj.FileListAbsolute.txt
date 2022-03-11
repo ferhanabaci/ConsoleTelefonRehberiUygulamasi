@@ -1,0 +1,16 @@
+C:\Users\ferhan\Desktop\Pratikler\TelefonRehberUygulaması\bin\Debug\net5.0\TelefonRehberUygulaması.exe
+C:\Users\ferhan\Desktop\Pratikler\TelefonRehberUygulaması\bin\Debug\net5.0\TelefonRehberUygulaması.deps.json
+C:\Users\ferhan\Desktop\Pratikler\TelefonRehberUygulaması\bin\Debug\net5.0\TelefonRehberUygulaması.runtimeconfig.json
+C:\Users\ferhan\Desktop\Pratikler\TelefonRehberUygulaması\bin\Debug\net5.0\TelefonRehberUygulaması.runtimeconfig.dev.json
+C:\Users\ferhan\Desktop\Pratikler\TelefonRehberUygulaması\bin\Debug\net5.0\TelefonRehberUygulaması.dll
+C:\Users\ferhan\Desktop\Pratikler\TelefonRehberUygulaması\bin\Debug\net5.0\TelefonRehberUygulaması.pdb
+C:\Users\ferhan\Desktop\Pratikler\TelefonRehberUygulaması\obj\Debug\net5.0\TelefonRehberUygulaması.csproj.AssemblyReference.cache
+C:\Users\ferhan\Desktop\Pratikler\TelefonRehberUygulaması\obj\Debug\net5.0\TelefonRehberUygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferhan\Desktop\Pratikler\TelefonRehberUygulaması\obj\Debug\net5.0\TelefonRehberUygulaması.AssemblyInfoInputs.cache
+C:\Users\ferhan\Desktop\Pratikler\TelefonRehberUygulaması\obj\Debug\net5.0\TelefonRehberUygulaması.AssemblyInfo.cs
+C:\Users\ferhan\Desktop\Pratikler\TelefonRehberUygulaması\obj\Debug\net5.0\TelefonRehberUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\ferhan\Desktop\Pratikler\TelefonRehberUygulaması\obj\Debug\net5.0\TelefonRehberUygulaması.dll
+C:\Users\ferhan\Desktop\Pratikler\TelefonRehberUygulaması\obj\Debug\net5.0\refint\TelefonRehberUygulaması.dll
+C:\Users\ferhan\Desktop\Pratikler\TelefonRehberUygulaması\obj\Debug\net5.0\TelefonRehberUygulaması.pdb
+C:\Users\ferhan\Desktop\Pratikler\TelefonRehberUygulaması\obj\Debug\net5.0\TelefonRehberUygulaması.genruntimeconfig.cache
+C:\Users\ferhan\Desktop\Pratikler\TelefonRehberUygulaması\obj\Debug\net5.0\ref\TelefonRehberUygulaması.dll
