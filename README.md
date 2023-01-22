@@ -1,4 +1,4 @@
-PROJE-1 : Console Telefon Rehberi Uygulaması
+ Console Telefon Rehberi Uygulaması
 
 
 Yeni bir console uygulaması açarak telefon rehberi uygulaması yazınız. Uygulamada olması gereken özellikler aşağıdaki gibidir.
